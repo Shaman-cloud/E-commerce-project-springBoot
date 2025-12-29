@@ -9,3 +9,4 @@ Add project structure
 Add feature X
 Initial commit
 Add project structure
+Initial commit
